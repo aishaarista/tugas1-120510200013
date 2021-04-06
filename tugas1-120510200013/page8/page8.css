@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 600px;
+    margin: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 120px;
+}
+h1 {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+.container {
+    position: relative;
+  }
+  nav {
+    position: absolute;
+    left: 0px;
+    width: 200px;
+    list-style-type: disc;
+    color: yellowgreen;
+    border-style: solid;
+    border-color: yellowgreen;
+  }
+  section {
+    margin-left: 220px;
+    border-style: solid;
+    border-color: yellowgreen;
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: darkslateblue;
+    width: 100%;
+    border-style: solid;
+    border-color: yellowgreen;
+  }

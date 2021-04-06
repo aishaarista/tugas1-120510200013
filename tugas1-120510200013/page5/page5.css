@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    max-width: 600px;
+    margin: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    color: white;
+    border-style: solid;
+    border-color: grey;
+}
+.fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border-width: 10px;
+    color: yellowgreen;
+    border: solid yellowgreen 10px;
+}

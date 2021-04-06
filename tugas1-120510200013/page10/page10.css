@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 600px;
+    margin: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-style: solid;
+    border-color: yellowgreen;
+}
+.after-box {
+    clear: left;
+}
+.box2 {
+    float: both;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-style: solid;
+    border-color: yellow;
+  }
+  .after-box2 {
+    clear: left;
+    border-style: solid;
+    border-color: grey;
+  }

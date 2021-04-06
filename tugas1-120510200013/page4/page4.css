@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    max-width: 600px;
+    margin: 50px auto;
+}
+h1 {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-style: solid;
+    border-color: grey;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+h2 {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+  }

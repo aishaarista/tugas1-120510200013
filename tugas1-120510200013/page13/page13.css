@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 600px;
+    margin: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 120px;
+}
+h1 {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+.clearfix {
+    border-style: solid;
+    border-color: yellowgreen;
+    overflow: auto;
+}
+article img {
+    float: right;
+    width: 30%;
+}
+.container {
+    position: relative;
+  }
+  nav {
+    float: left;
+    width: 30%;
+    list-style-type: disc;
+    color: yellowgreen;
+    border-style: solid;
+    border-color: yellowgreen;
+  }
+  section {
+    margin-left: 32%;
+    border-style: solid;
+    border-color: yellowgreen;
+  }

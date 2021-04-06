@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    max-width: 600px;
+    margin: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing:border-box;
+    color: white;
+    border-style: solid;
+    border-color: grey;
+}
+.fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border: solid yellowgreen 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing:border-box;
+    color: yellowgreen;
+}
+div {
+    color: white;
+    width: 500px;
+    margin: 20px auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing:border-box;
+}

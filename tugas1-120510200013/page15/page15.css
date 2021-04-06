@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 120px;
+}
+h1 {
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-style: solid;
+    border-color: yellowgreen;
+}
+.after-box {
+    clear: left;
+    border-style: solid;
+    border-color: yellow;
+}
+.box2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-style: solid;
+    border-color: yellowgreen;
+}
+div {
+    border-style: solid;
+    border-color: yellow;
+}
